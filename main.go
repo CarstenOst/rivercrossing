@@ -20,7 +20,7 @@ func main() {
 	inputStuff()
 	showState(venstre, noahsArk, høyre)
 
-	fmt.Printf("Flytter %v fra venstre til båten", venstre)
+	fmt.Printf("Flytter %v fra venstre til Noahs Ark", venstre)
 	sleepyBoy(4000)
 	clearTerminal()
 
